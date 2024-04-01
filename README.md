@@ -1,8 +1,9 @@
 # QATESTPOSTMAN e CYPRESS
-# Passo a Passo para rodar o Postman e a Coleção para executar o CRUD
+
+# Passo a Passo para rodar o Postman e a Coleção para executar o CRUD:
 
 Passo 1: Baixar e instalar o Postman
-- Primeiro, basta baixar e instalar o Postman, que pode ser encontrado no site oficial do Postman (https://www.postman.com/downloads/).
+- Primeiro, basta baixar e instalar o Postman no site oficial (https://www.postman.com/downloads/).
 
 Passo 2: Abrir o Postman
 - Após a instalação, abra o Postman.
@@ -16,14 +17,14 @@ Passo 4: Importar uma coleção
 - Após selecionar o arquivo da coleção, clique em "Abrir" para importá-lo para o Postman.
 
 Passo 5: Explorar e utilizar a coleção
-- Após importar a coleção, você verá que ela foi adicionada à sua barra lateral esquerda, sob a seção "Coleções".
-- Clique na coleção importada para expandi-la e visualizar as requisições e realizar o CRUD
+- Após importar a coleção, você verá que ela foi adicionada à sua barra lateral esquerda, na seção "Coleções".
+- Clique na coleção importada para expandi-la e visualizar as requisições para realizar o CRUD.
 
-# Passo a Passo para rodar o teste em Cypress
+# Passo a Passo para rodar o teste em Cypress:
 
 Passo 1: Instalar o Node.js
-- Primeiro, basta baixar e instalar o Node.js: (https://nodejs.org/)
-- Faça o download do instalador adequado para o seu sistema operacional.
+- Primeiro, basta baixar e instalar o Node.js no site oficial (https://nodejs.org/)
+- Faça o download do instalador adequado para o seu sistema operacional e execute.
 
 Passo 2: Inicializar um novo projeto Node.js
 - Abra seu terminal ou prompt de comando e siga estas etapas:
