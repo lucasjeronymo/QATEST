@@ -23,23 +23,20 @@ Passo 5: Explorar e utilizar a coleção
 Passo a Passo para rodar o teste em Cypress
 
 Passo 1: Instalar o Node.js
-Vá para o site oficial do Node.js: (https://nodejs.org/)
-Faça o download do instalador adequado para o seu sistema operacional.
-Siga as instruções de instalação fornecidas no site.
+- Primeiro, basta baixar e instalar o Node.js: (https://nodejs.org/)
+- Faça o download do instalador adequado para o seu sistema operacional.
 
 Passo 2: Inicializar um novo projeto Node.js
-Abra seu terminal ou prompt de comando e siga estas etapas:
-Abra o terminal no diretório QA TEST 
-Execute o comando npm init -y
-
+- Abra seu terminal ou prompt de comando e siga estas etapas:
+- Abra o terminal no diretório QA TEST 
+- Execute o comando npm init -y
 
 Passo 3: Instalar o Cypress
-Execute o seguinte comando para instalar o Cypress localmente no seu projeto: npm install cypress --save-dev
-
+- Execute o seguinte comando para instalar o Cypress localmente no seu projeto: npm install cypress --save-dev
 
 Passo 4: Abrir o Cypress e criar arquivos de teste
-Depois de instalar o Cypress, você pode abrir o Cypress Runner 
-Execute o seguinte comando: npx cypress open
-Na interface que se abre, clique em 'E2E', escolha o navegador Chrome e clique para começar os testes
-Selecione o arquivo spec.cy.js e o teste rodará automaticamente
-Verifique as validações no lado esquerdo da interface e compare com o resultado esperado
+- Depois de instalar o Cypress, você pode abrir o Cypress Runner 
+- Execute o seguinte comando: npx cypress open
+- Na interface que se abre, clique em 'E2E', escolha o navegador Chrome e clique para começar os testes
+- Selecione o arquivo spec.cy.js e o teste rodará automaticamente
+- Verifique as validações no lado esquerdo da interface e compare com o resultado esperado
